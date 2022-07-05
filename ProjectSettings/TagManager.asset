@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Wall
   - MovingPlatform
+  - Ceiling
+  - CheckPoint
+  - End
   layers:
   - Default
   - TransparentFX
